@@ -1,10 +1,10 @@
-#<h1 align="center">Hi 👋, I'm Batoul Hassaballa</h1>
+<h1 align="center">Hi 👋, I'm Batoul Hassaballa</h1>
 <h3 align="center">A frontend developer</h3>
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/premium-vector/programmer-semi-flat-color-vector-character-student-figure-sitting-person-white-man-computer-desk-coding-isolated-modern-cartoon-style-illustration-graphic-design-animation_151150-5964.jpg?w=2000">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=batoul2020&label=Profile%20views&color=0e75b6&style=flat" alt="batoul2020" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@batoulcode" target="blank"><img src="https://img.shields.io/twitter/follow/@batoulcode?logo=twitter&style=for-the-badge" alt="@batoulcode" /></a> </p>
+<p align="left"> <a href="https://twitter.com/batoulcode" target="blank"><img src="https://img.shields.io/twitter/follow/batoulcode?logo=twitter&style=for-the-badge" alt="batoulcode" /></a> </p>
 
 - 🌱 I’m currently learning **React**
 
@@ -14,7 +14,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@batoulcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@batoulcode" height="30" width="40" /></a>
+<a href="https://codepen.io/batoul h. hassaballa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="batoul h. hassaballa" height="30" width="40" /></a>
+<a href="https://twitter.com/batoulcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="batoulcode" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/batoul hassaballa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="batoul hassaballa" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,4 +27,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=batoul2020&show_icons=true&locale=en" alt="batoul2020" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=batoul2020&" alt="batoul2020" /></p>
-
