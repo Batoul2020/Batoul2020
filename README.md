@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://batoulcode.hashnode.dev/](https://batoulcode.hashnode.dev/)
 
-- 💬 Ask me about **HTML, CSS, Grids , Felxbox , javaScript**
+- 💬 Ask me about **HTML, CSS, Grids , Flexbox , javaScript**
 
 - 📫 How to reach me **batoul.hassaballa@gmail.com**
 
